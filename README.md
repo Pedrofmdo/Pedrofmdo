@@ -1,10 +1,9 @@
-# Olá, eu sou [SEU NOME]! 👋
+# Olá, eu sou Pedrofmdo! 👋
 
 ## 🚀 Sobre mim
 [Escreva um parágrafo breve sobre você, sua área de atuação, paixões profissionais e o que te motiva]
 
 ## 🛠 Habilidades
-[ Liste suas principais habilidades técnicas]
 
 **Linguagens de Programação:**
 - [Linguagem 1]
@@ -32,17 +31,17 @@
 [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 
 ## 📊 Estatísticas do GitHub
-![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=dark)
+![Pedrofmdo GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrofmdo&show_icons=true&theme=dark)
 
 ## 📚 Projetos em Destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU-USERNAME&repo=NOME-DO-REPOSITORIO&theme=dark)](https://github.com/SEU-USERNAME/NOME-DO-REPOSITORIO)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU-USERNAME&repo=NOME-DO-REPOSITORIO&theme=dark)](https://github.com/SEU-USERNAME/NOME-DO-REPOSITORIO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pedrofmdo&repo=NOME-DO-REPOSITORIO&theme=dark)](https://github.com/Pedrofmdo/NOME-DO-REPOSITORIO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pedrofmdo&repo=NOME-DO-REPOSITORIO&theme=dark)](https://github.com/Pedrofmdo/NOME-DO-REPOSITORIO)
 
 ## 📈 Principais Linguagens
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrofmdo&layout=compact&theme=dark)
 
 ## 🏆 Conquistas no GitHub
-![trophy](https://github-profile-trophy.vercel.app/?username=SEU-USERNAME&theme=darkhub)
+![trophy](https://github-profile-trophy.vercel.app/?username=Pedrofmdo&theme=darkhub)
 
 ## 📌 Pinned
 - 🔭 Atualmente estou trabalhando em: [Nome do Projeto Atual]
@@ -58,4 +57,4 @@
 
 ---
 
-⭐️ De [SEU-NOME](https://github.com/SEU-USERNAME)
+⭐️ De [Pedrofmdo](https://github.com/Pedrofmdo)
