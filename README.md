@@ -1,36 +1,39 @@
 🚀 Pedro Jorge Fernandes
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=7F3FBF&center=true&vCenter=true&width=650&lines=Desenvolvedor+Front-end;Angular+%7C+React+%7C+TypeScript;Construindo+Sistemas+Escaláveis;Performance+%26+Arquitetura+Limpa" /> </p>
-👨‍💻 Sobre mim
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Frontend+Engineer;Angular+%7C+React+%7C+TypeScript;Arquitetura+Escalável;SaaS+%26+Sistemas+de+Alta+Performance" /> </p> <p align="center"> <b>Construindo sistemas modernos, escaláveis e orientados a negócio.</b> </p>
+👨‍💻 Perfil Profissional
 
-🎓 Estudante de Ciência da Computação — 6º período
-💻 Desenvolvedor Front-end com foco em Angular, React e TypeScript
+🎓 Ciência da Computação — 6º período
+💻 Desenvolvedor Front-end especializado em Angular, React e TypeScript
 🇧🇷 Brasil
 
-Desenvolvo produtos escaláveis, plataformas SaaS e sistemas web de alta performance, sempre priorizando:
+Atuo no desenvolvimento de plataformas SaaS, sistemas administrativos, dashboards estratégicos e aplicações web de alta performance.
 
-🧠 Arquitetura limpa
+Meu foco está em:
 
-⚡ Performance
+🧠 Arquitetura bem definida e sustentável
 
-🔐 Segurança
+⚡ Performance e otimização de renderização
 
-📈 Soluções orientadas ao negócio
+🔐 Segurança e autenticação estruturada
 
-🏗️ Estrutura escalável
+📦 Organização de código e escalabilidade
 
-Meu objetivo é construir sistemas que não apenas funcionem, mas que gerem valor real e sejam sustentáveis a longo prazo.
+📊 Soluções alinhadas ao objetivo do negócio
 
-🧩 O que eu desenvolvo
+Não construo apenas interfaces.
+Construo estruturas sólidas que suportam crescimento.
 
-✔️ Plataformas SaaS
-✔️ Sistemas administrativos e dashboards
-✔️ Autenticação e autorização seguras
-✔️ Integração com APIs e serviços externos
-✔️ Lógica de pagamentos e assinaturas
-✔️ Arquitetura front-end escalável
-✔️ Sistemas completos com Angular + Backend
+🧩 Especialidades
 
-🛠️ Tecnologias
+✔️ Arquitetura Front-end escalável
+✔️ Componentização avançada (Angular & React)
+✔️ Integração com APIs REST
+✔️ Autenticação e controle de acesso
+✔️ Lógica de pagamentos e regras de negócio
+✔️ Sistemas administrativos completos
+✔️ Organização de projetos em padrão profissional
+
+🛠️ Stack Tecnológica
 🎨 Front-end
 
 
@@ -55,7 +58,7 @@ Meu objetivo é construir sistemas que não apenas funcionem, mas que gerem valo
 
 
 
-🛠️ Ferramentas
+🧰 Ferramentas & Ambiente
 
 
 
@@ -64,14 +67,15 @@ Meu objetivo é construir sistemas que não apenas funcionem, mas que gerem valo
 
 
 
-🌐 Onde me encontrar
-<p align="left"> <a href="https://github.com/Pedrofmdo"> <img src="https://img.shields.io/badge/GitHub-Pedrofmdo-181717?style=for-the-badge&logo=github" /> </a> <a href="https://instagram.com/020_pedro_y"> <img src="https://img.shields.io/badge/Instagram-020_pedro_y-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.tiktok.com/@cactudev"> <img src="https://img.shields.io/badge/TikTok-@cactudev-000000?style=for-the-badge&logo=tiktok" /> </a> </p>
-📊 Estatísticas do GitHub
+🌐 Contato
+<p align="left"> <a href="https://github.com/Pedrofmdo"> <img src="https://img.shields.io/badge/GitHub-Pedrofmdo-111111?style=for-the-badge&logo=github" /> </a> <a href="https://instagram.com/020_pedro_y"> <img src="https://img.shields.io/badge/Instagram-020_pedro_y-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.tiktok.com/@cactudev"> <img src="https://img.shields.io/badge/TikTok-@cactudev-111111?style=for-the-badge&logo=tiktok" /> </a> </p>
+📊 GitHub Analytics
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pedrofmdo&show_icons=true&theme=tokyonight&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrofmdo&layout=compact&theme=tokyonight" /> </p>
-🚀 Filosofia
+🧠 Mentalidade
 
-"Software não é apenas código.
-É construir soluções que resolvem problemas reais, escalam e geram impacto."
+“Código é ferramenta.
+Arquitetura é estratégia.
+Escalabilidade é visão.”
 
-🤝 Aberto a colaborações, freelas e oportunidades profissionais
-⭐ Se gostou de algum projeto, considere dar uma estrela
+⭐ Se algum projeto te agregou valor, considere dar uma estrela
+🤝 Aberto a oportunidades, colaborações e projetos desafiadores
