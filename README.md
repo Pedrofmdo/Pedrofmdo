@@ -1,7 +1,7 @@
 # 🚀 Pedro Jorge Fernandes  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Frontend+Engineer;Angular+%7C+React+%7C+TypeScript;Arquitetura+Escalável;SaaS+%26+Sistemas+de+Alta+Performance" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Frontend+Engineer;Angular+%7C+React+%7C+TypeScript;Arquitetura+Escalável;+%26+Sistemas+de+Alta+Performance" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 💻 Desenvolvedor Front-end especializado em Angular, React e TypeScript  
 🇧🇷 Brasil  
 
-Atuo no desenvolvimento de plataformas SaaS, sistemas administrativos e aplicações web de alta performance.
+Atuo no desenvolvimento de sistemas administrativos e aplicações web de alta performance.
 
 Foco em:
 
@@ -48,7 +48,7 @@ Foco em:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
