@@ -1,43 +1,37 @@
 🚀 Pedro Jorge Fernandes
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Angular+%7C+React+%7C+TypeScript;Building+Scalable+SaaS+Systems;Performance+%26+Clean+Architecture" /> </p>
-👋 About Me
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=7F3FBF&center=true&vCenter=true&width=650&lines=Desenvolvedor+Front-end;Angular+%7C+React+%7C+TypeScript;Construindo+Sistemas+Escaláveis;Performance+%26+Arquitetura+Limpa" /> </p>
+👨‍💻 Sobre mim
 
-🎓 Computer Science Student (6th semester)
-🚀 Frontend Developer specialized in Angular, React & TypeScript
-🇧🇷 Based in Brazil
+🎓 Estudante de Ciência da Computação — 6º período
+💻 Desenvolvedor Front-end com foco em Angular, React e TypeScript
+🇧🇷 Brasil
 
-I build scalable products, SaaS platforms, and high-performance web systems.
+Desenvolvo produtos escaláveis, plataformas SaaS e sistemas web de alta performance, sempre priorizando:
 
-Focused on:
+🧠 Arquitetura limpa
 
-🧠 Clean Architecture
+⚡ Performance
 
-⚡ Performance Optimization
+🔐 Segurança
 
-🏗️ Scalable System Design
+📈 Soluções orientadas ao negócio
 
-💼 Business-Driven Development
+🏗️ Estrutura escalável
 
-🔐 Secure Authentication & APIs
+Meu objetivo é construir sistemas que não apenas funcionem, mas que gerem valor real e sejam sustentáveis a longo prazo.
 
-I don't just write code —
-I build systems that generate value.
+🧩 O que eu desenvolvo
 
-🌐 Connect With Me
-<p align="left"> <a href="https://github.com/Pedrofmdo"> <img src="https://img.shields.io/badge/GitHub-Pedrofmdo-181717?style=for-the-badge&logo=github" /> </a> <a href="https://instagram.com/oreidosites"> <img src="https://img.shields.io/badge/Instagram-@020_pedro_y-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.tiktok.com/@oreidosites"> <img src="https://img.shields.io/badge/TikTok-@cactudev-000000?style=for-the-badge&logo=tiktok" /> </a> </p>
-🧠 What I Build
+✔️ Plataformas SaaS
+✔️ Sistemas administrativos e dashboards
+✔️ Autenticação e autorização seguras
+✔️ Integração com APIs e serviços externos
+✔️ Lógica de pagamentos e assinaturas
+✔️ Arquitetura front-end escalável
+✔️ Sistemas completos com Angular + Backend
 
-✔️ SaaS Platforms
-✔️ Admin Panels & Dashboards
-✔️ High-performance Web Apps
-✔️ Authentication & Authorization Systems
-✔️ Payment & Subscription Logic
-✔️ Business Automation Systems
-✔️ REST APIs Integration
-✔️ Scalable Frontend Architectures
-
-🛠️ Tech Stack
-🎨 Frontend
+🛠️ Tecnologias
+🎨 Front-end
 
 
 
@@ -52,7 +46,7 @@ I build systems that generate value.
 
 
 
-⚙️ Backend
+⚙️ Back-end
 
 
 
@@ -61,7 +55,7 @@ I build systems that generate value.
 
 
 
-🛠️ DevOps & Tools
+🛠️ Ferramentas
 
 
 
@@ -70,12 +64,14 @@ I build systems that generate value.
 
 
 
-📊 GitHub Analytics
+🌐 Onde me encontrar
+<p align="left"> <a href="https://github.com/Pedrofmdo"> <img src="https://img.shields.io/badge/GitHub-Pedrofmdo-181717?style=for-the-badge&logo=github" /> </a> <a href="https://instagram.com/020_pedro_y"> <img src="https://img.shields.io/badge/Instagram-020_pedro_y-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.tiktok.com/@cactudev"> <img src="https://img.shields.io/badge/TikTok-@cactudev-000000?style=for-the-badge&logo=tiktok" /> </a> </p>
+📊 Estatísticas do GitHub
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pedrofmdo&show_icons=true&theme=tokyonight&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrofmdo&layout=compact&theme=tokyonight" /> </p>
-🚀 Philosophy
+🚀 Filosofia
 
-“Code is not just about solving problems.
-It's about building scalable systems that create real impact.”
+"Software não é apenas código.
+É construir soluções que resolvem problemas reais, escalam e geram impacto."
 
-⭐ If you like my work, consider starring a repository
-🤝 Open to collaborations, freelance projects and professional opportunities
+🤝 Aberto a colaborações, freelas e oportunidades profissionais
+⭐ Se gostou de algum projeto, considere dar uma estrela
